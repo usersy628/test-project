@@ -15,3 +15,12 @@ package.json 에서 scripts 필드에 start 추가 후 npm start
 
 ![image](https://user-images.githubusercontent.com/100139289/215260042-a81c119f-4953-4548-a848-6c7bb95d4fc8.png)
 
+index.html 파일을 찾을 수 없다고 한다.
+
+public 파일 경로를 찾는 것 같은데 public을 만들어야 하나?
+
+2시간 검색 결과로도 해결되지 않아 프로젝트를 삭제 후 다른 문서를 참조하기로 결정.
+https://artistjay.tistory.com/20
+
+    C:\workspace\test-project>npx create-react-app simple-react-board
+    
