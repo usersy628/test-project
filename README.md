@@ -1,5 +1,5 @@
 # react.js로 게시판 만들어보기
-[ https://goddino.tistory.com/63 ] 문서를 참조해서 시작해보자
+< https://goddino.tistory.com/63 > 문서를 참조해서 시작해보자
 
  로컬서버 띄우기부터 애를 먹는다
  
