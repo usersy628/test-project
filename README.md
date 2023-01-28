@@ -36,4 +36,6 @@ no such file or directory, opne 'C:\workspace\test-project\package.json'
 cd simple-react-board 로 경로 이동.
 
     npm start
-성공
+성공!
+
+#
