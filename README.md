@@ -2,7 +2,7 @@
 # react.js로 게시판 만들어보기
 [ https://goddino.tistory.com/63 ] 문서를 참조해서 시작해보자
 
-# 로컬서버 띄우기부터 애를 먹는다
+ 로컬서버 띄우기부터 애를 먹는다
 package.json 에서 scripts 필드에 start 추가 후 npm start
 
 안됀다
