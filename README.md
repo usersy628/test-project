@@ -20,7 +20,20 @@ index.html 파일을 찾을 수 없다고 한다.
 public 파일 경로를 찾는 것 같은데 public을 만들어야 하나?
 
 2시간 검색 결과로도 해결되지 않아 프로젝트를 삭제 후 다른 문서를 참조하기로 결정.
+
 https://artistjay.tistory.com/20
 
     C:\workspace\test-project>npx create-react-app simple-react-board
     
+열심히 패치 후 npm start 명령어를 입력했으나 또 안됀다
+
+no such file or directory, opne 'C:\workspace\test-project\package.json'
+
+패키지 제이슨을 못찾겠다고 한다
+
+패키지 제이슨의 경로는 C:\workspace\test-project\simple-react-board\package.json 이므로 경로 수정을 해준다
+
+cd simple-react-board 로 경로 이동.
+
+    npm start
+성공
